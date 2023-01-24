@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sandbox/static/css/main.e6c13ad2.css",
+    "main.js": "/react-sandbox/static/js/main.400e1422.js",
+    "index.html": "/react-sandbox/index.html",
+    "main.e6c13ad2.css.map": "/react-sandbox/static/css/main.e6c13ad2.css.map",
+    "main.400e1422.js.map": "/react-sandbox/static/js/main.400e1422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.400e1422.js"
+  ]
+}
